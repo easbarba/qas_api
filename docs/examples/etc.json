@@ -1,0 +1,17 @@
+[
+    {
+        "name": "guzzle",
+        "branch": "master",
+        "url": "https://github.com/guzzle/guzzle"
+    },
+    {
+        "name": "github-gitignore",
+        "branch": "main",
+        "url": "https://github.com/github/gitignore"
+    },
+    {
+        "name": "makefiletutorial",
+        "branch": "gh-pages",
+        "url": "https://github.com/theicfire/makefiletutorial"
+    }
+]
