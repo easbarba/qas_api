@@ -1,8 +1,11 @@
 [package]
 name = "qas"
+description = "Easily manage multiple FLOSS repositories"
+authors = ["EAS Barbosa <easbarba@outlook.com>"]
+license = "GPL-3.0-or-later"
+repository = "https://github.com/easbarba/qas"
 version = "0.1.0"
 edition = "2021"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
 [dependencies]
+clap = { version = "4.1.8", features = ["derive"] }

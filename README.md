@@ -2,6 +2,7 @@
 
 ![version number](https://img.shields.io/badge/version-0.1.0-blue.svg)
 [![Actions Status](https://github.com/easbarba/qas_rs/workflows/ci/badge.svg)](https://github.com/easbarba/qas/actions)
+[<img src="https://img.shields.io/crates/v/qas.svg?style=flat-square" alt="crates.io link">](https://crates.io/crates/qas)
 
 Easily manage multiple FLOSS repositories
 
